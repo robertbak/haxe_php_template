@@ -1,0 +1,5 @@
+# Autocompletion support
+-main MainTest
+-php out/test/haxe
+-cp test/
+-cp lib/
