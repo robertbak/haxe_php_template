@@ -1,0 +1,5 @@
+out/
+node_modules/
+.ftppass
+haxebook.sublime-workspace
+haxebook.sublime-project

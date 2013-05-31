@@ -1,0 +1,9 @@
+{
+  "name": "Template App - PHP",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-haxe": "~0.1.10",
+    "grunt-shell": "~0.2.2"
+  }
+}
