@@ -1,5 +1,5 @@
 {
-  "name": "Template App - PHP",
+  "name": "TemplateAppPHP",
   "version": "0.0.1",
   "devDependencies": {
     "grunt": "~0.4.1",
